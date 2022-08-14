@@ -4,6 +4,4 @@
 
 123
 
-Это Linux
 
-![Cat](Cat.jpeg)
